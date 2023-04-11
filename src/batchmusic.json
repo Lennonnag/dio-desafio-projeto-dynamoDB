@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Lamb of God"},
+                  "SongTitle": {"S": "Hourglass"},
+                  "AlbumTitle": {"S": "Ashes of the Wake"},
+                  "SongYear": {"S": "2004"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Lamb of God"},
+                  "SongTitle": {"S": "Walk with me in Hell"},
+                  "AlbumTitle": {"S": "Sacrament"},
+                  "SongYear": {"S": "2006"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Lamb of God"},
+                  "SongTitle": {"S": "512"},
+                  "AlbumTitle": {"S": "VII: Sturm und Drang"},
+                  "SongYear": {"S": "2015"}
+                }
+            }
+        }
+      ]
+}
